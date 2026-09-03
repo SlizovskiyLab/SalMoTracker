@@ -1,2 +1,0 @@
-Adapter detection for reads / SKESA contigs 
-Human host detection for reads / SKESA contigs (version GRCh38), using the ‘BWA aln’ option with (flags −l500 −t 16 −q 25)
